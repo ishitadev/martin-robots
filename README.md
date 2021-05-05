@@ -20,6 +20,13 @@ You have to go to run npm install in order to install the necesary dependencies.
 > $ npm install
 > ```
 
+
+To run the martin-robots program , you need to introduce the following command on your terminal:
+>```console
+>$ npm start
+>```
+
+
 Finally, to run the tests, you need to introduce the following command on your terminal:
 >```console
 >$ npm test
